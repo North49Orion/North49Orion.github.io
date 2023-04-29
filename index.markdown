@@ -4,5 +4,5 @@
 
 layout: home
 ---
-## The Best Home Page Ever
-View my blog. It's pretty cool funky words man. 
+The Best Home Page Ever
+View my blog. It's pretty cool funky words man.
